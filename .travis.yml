@@ -5,9 +5,4 @@ cache: bundler
 sudo: false
 
 rvm:
-  - 2.4.1
-
-matrix:
-  include:
-    test_isolated
-    
+  - 2.4.1    
